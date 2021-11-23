@@ -4,10 +4,19 @@
  */
 package com.mycompany.iek;
 
+import java.util.Date;
+
 /**
  *
  * @author Tep-G
  */
 public class Player {
     
+
+    private String  firstname;
+    private String  lastname;
+    private Date    birthDate;
+    
+    
+
 }
