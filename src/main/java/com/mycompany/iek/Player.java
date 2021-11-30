@@ -19,4 +19,8 @@ public class Player {
     
     
 
+public Player (String f, String l){
+         this.firstname=f;
+         this.lastname=f;
+         
 }
