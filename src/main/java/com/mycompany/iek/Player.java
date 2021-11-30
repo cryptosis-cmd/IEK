@@ -28,6 +28,7 @@ public void printStats(){
     System.out.println("Last Name: " + firstname);
     System.out.println("Birth Date: " + birthDate);
 }
+    //@Override
        public String toString(){
          return "First Name: "+firstname+"Last Name: "+lastname+
                  ",Birth Date:"+birthDate;}  
