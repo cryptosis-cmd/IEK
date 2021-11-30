@@ -22,5 +22,16 @@ public class Player {
 public Player (String f, String l){
          this.firstname=f;
          this.lastname=f;}
+
+public void printStats(){
+    System.out.println("First Name: " + firstname);
+    System.out.println("Last Name: " + firstname);
+    System.out.println("Birth Date: " + birthDate);
+}
+    
+    
+    
+    
+
          
 }
